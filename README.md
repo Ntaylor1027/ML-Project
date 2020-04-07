@@ -1,6 +1,4 @@
-4 csvs for each season will be downloaded 
+Authors: Noah Taylor and Cole Bennett
 
-- Team Per Game Stats
-- Miscellaneous Stats
-- Team Shooting
-- Opponent Shooting
+Project Description:
+The project will apply different machine learning algorithms to classify the MVP winners of the NBA and analyze the differences in models accuracies. We will also take note of the most important features that a model will weigh for predicting the MVP winners.
